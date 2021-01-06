@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+   
+}
+.main-div{
+    width: 1024px;
+    margin: 0 auto;
+}
+.h4{
+    font-style: italic;
+}
+.h3{
+    font-family: 'Yellowtail', cursive;
+}
+.h2{
+    font-family: 'Yellowtail', cursive;
+    background-color: hsl(0, 40%, 50%);
+}
+.footer-header{
+    font-family: 'Yellowtail', cursive;
+   text-decoration: overline;
+}
